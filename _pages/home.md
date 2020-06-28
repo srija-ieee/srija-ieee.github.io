@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: GSF VIKRAM
+title: Project VIKRAM
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg
@@ -11,7 +11,7 @@ header:
       url: "/join-us/"
 excerpt: >
   An inclusive rural digitalization platform<br/>
-  by GramSheel Foundation<br/>
+  inspired by the principles of GramSheel<br/>
   गाँव बढ़ेंगे तो सब बढ़ेंगे<br/>
   <small><a href="https://obonac-works.github.io/about/">More about Project VIKRAM</a></small>
 feature_row:
@@ -54,7 +54,7 @@ Launched 3rd May 2020
 
 ### गाँव बढ़ेंगे तो सब बढ़ेंगे
 
-Note: This is an initial announcement. GSF VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. Project VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
 1. Education
 
@@ -78,4 +78,4 @@ Kindly visit the following link to update your issues, change requests or other 
 
 To add an issue please visit the link below and copy paste the template into a new issue
 
-https://github.com/gsfvikram/healthcare/issues/1
+https://github.com/projectvikram/healthcare/issues/1

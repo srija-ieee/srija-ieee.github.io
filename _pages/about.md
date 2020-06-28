@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-## GSF VIKRAM - An inclusive rural digitalization platform by GramSheel Foundation
+## Project VIKRAM - An inclusive rural digitalization platform inspired by the principles of GramSheel
 
 <b>V</b>irtualized         <br>
 <b>I</b>nfrastructure      <br>
@@ -19,7 +19,7 @@ Launched 3rd May 2020
 
 ### गाँव बढ़ेंगे तो सब बढ़ेंगे
 
-Note: This is an initial announcement. GSF VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. Project VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
 1. Education
 
@@ -43,4 +43,4 @@ Kindly visit the following link to update your issues, change requests or other 
 
 To add an issue please visit the link below and copy paste the template into a new issue
 
-https://github.com/gsfvikram/healthcare/issues/1
+https://github.com/projectvikram/healthcare/issues/1

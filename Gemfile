@@ -16,7 +16,7 @@
 title: Project VIKRAM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  An inclusive rural digitalization platform by GramSheel Foundation
+  An inclusive rural digitalization platform inspired by the principles of GramSheel
     Virtualized
     Infrastructure
     for
@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Ascension
     Management
   गाँव बढ़ेंगे तो सब बढ़ेंगे
-  GSF VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
+  Project VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
     1. Education
     2. Healthcare
     3. Livelihood (ISIC domains of economic activities)
@@ -40,7 +40,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: gsfvikram/gsftheme
+remote_theme: projectvikram/projecttheme
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show

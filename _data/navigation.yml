@@ -1,9 +1,60 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: Home
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Advisors"
+    url: /advisors/
+  - title: Team
+    url: /team/
+      
+  - title: "Projects"
+    url: /projects/
+  - title: "Partners"
+    url: /partners/
+    
+  - title: Technology
+    url: /technology/
+  - title: Resources
+    url: /resources/
+
+  - title: Livelihood
+    url: /livelihood/
+  - title: Industries
+    url: /industries/
+  - title: Education
+    url: /education/
+
+  - title: Healthcare & Biosciences
+    url: /health/
+  - title: Food Processing & Agriculture
+    url: /food_processing_and_agriculture/
+  - title: Space Exploration
+    url: /space_exploration/
+  - title: Environment & Habitat
+    url: /environment_and_habitat/
+
+  - title: Socialising
+    url: /socialising/
+  - title: Justice
+    url: /justice/
+  - title: Peace
+    url: /peace/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Posts"
+    url: /posts/
+
+
+  - title: "License"
+    url: /license/
+  - title: "Terms & Conditions"
+    url: /terms/
+  - title: "Privacy Policy"
+    url: /privacy/
+  - title: "Join Us"
+    url: /join-us/
+    
+

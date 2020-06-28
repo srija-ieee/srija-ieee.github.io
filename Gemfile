@@ -16,7 +16,7 @@
 title: Project VIKRAM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  An inclusive rural digitalization platform by GramSheel Foundation
+  An inclusive rural digitalization platform inspired by the principles of GramSheel
     Virtualized
     Infrastructure
     for
@@ -25,14 +25,22 @@ description: >- # this means to ignore newlines until "baseurl:"
     Ascension
     Management
   गाँव बढ़ेंगे तो सब बढ़ेंगे
+  Project VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
+    1. Education
+    2. Healthcare
+    3. Livelihood (ISIC domains of economic activities)
+    4. Social Justice
+    5. Habitat and Environment
+    6. Agriculture and Food
+    7. Peace and harmony through social dialog 
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: gsfvikram/gsftheme
+remote_theme: projectvikram/projecttheme
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -94,9 +102,20 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -105,13 +124,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
 category_archive:
   type: liquid

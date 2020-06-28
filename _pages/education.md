@@ -1,3 +1,8 @@
+---
+permalink: /education/
+title: Education 4 All
+---
+
 Education for kids (for folks my age teenagers are kids, for my parents generation we're all kids! - and learning has no age. Upskilling is a need of the hour) 
 
 

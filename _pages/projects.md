@@ -1,3 +1,8 @@
+---
+permalink: /projects/
+title: Projects 4 All
+---
+
 ﻿© Copyright 2020 AyeAI Consulting
 Disclaimer: This is not a product commitment. No warranty, and zero liability
 

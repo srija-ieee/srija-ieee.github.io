@@ -12,7 +12,7 @@ header:
 excerpt:
   <b>கிராமங்களின் வளர்ச்சியே<br>
   நம் அனைவரின் வளர்ச்சி<br>
-  गांवों के विकास में हम सभी का विकास<br></b>
+  स्वास्थेव त्विषा<br></b>
   <small>
   An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
   <a href="about/">More about TWISHA </a>

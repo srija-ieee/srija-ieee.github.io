@@ -20,21 +20,21 @@ excerpt:
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
-    title: "Healthcare for All"
+    title: "Twisha Events"
     excerpt: "Healthcare is basic dignity of human life in modern civilization. TWISHA  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
     url: "/virtual-hospital/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
-    title: "Singularity Tech for All"
+    title: "Twisha Kits"
     excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. TWISHA  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
     url: "/tech4all/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
-    title: "Linguistic Inclusivity"
+    title: "Women, Child & Family Health"
     excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. TWISHA  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"

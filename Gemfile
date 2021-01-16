@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Ascension
     Management
   गाँव बढ़ेंगे तो सब बढ़ेंगे
-  Project VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
+  Project Vikram is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the following areas.
     1. Education
     2. Healthcare
     3. Livelihood (ISIC domains of economic activities)
@@ -76,30 +76,42 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/projectvikram/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/ProjectVIKRAM"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/project-vikram"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Advisors"
+      icon: "fas fa-fw fa-award"
+      url: "/advisors/"
+    - label: "Team"
+      icon: "fas fa-fw fa-users-cog"
+      url: "/team/"
+    - label: "Partners"
+      icon: "fas fa-fw fa-handshake"
+      url: "/partners/"
+    - label: "License"
+      icon: "fas fa-fw fa-file-contract"
+      url: "/license/"
+    - label: "Privacy Policy"
+      icon: "fas fa-fw fa-mask"
+      url: "/privacy/"
+    - label: "Term & Conditions"
+      icon: "fas fa-fw fa-balance-scale-right"
+      url: "/terms/"
 
 defaults:
   # _pages

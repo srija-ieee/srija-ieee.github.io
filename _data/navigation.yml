@@ -1,13 +1,14 @@
 main:
   - title: Home
     url: /
-  - title: "About"
+  - title: "Support Us"
+    url: /support/
+  - title: "About Us"
     url: /about/
   - title: "Advisors"
     url: /advisors/
   - title: Team
     url: /team/
-      
   - title: "Projects"
     url: /projects/
   - title: "Partners"

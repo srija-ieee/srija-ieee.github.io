@@ -7,33 +7,36 @@ header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg
   actions:
-    - label: "<i class='fas fa-github'></i> Join us"
+    - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
-excerpt: >
-  An inclusive rural digitalization platform<br/>
-  inspired by the principles of GramSheel<br/>
-  गाँव बढ़ेंगे तो सब बढ़ेंगे<br/>
-  <small><a href="https://obonac-works.github.io/about/">More about Project VIKRAM</a></small>
+excerpt:
+  <b>கிராமங்களின் வளர்ச்சியே<br>
+  நம் அனைவரின் வளர்ச்சி<br>
+  गांवों के विकास में हम सभी का विकास<br></b>
+  <small>
+  An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
+  <a href="about/">More about Project Vikram </a>
+  </small>
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
     title: "Healthcare for All"
-    excerpt: "Healthcare is basic dignity of human life in modern civilization. Project VIKRAM is setting up the tools for an accessible virtual hospital"
+    excerpt: "Healthcare is basic dignity of human life in modern civilization. Project Vikram  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
     url: "/virtual-hospital/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
-    title: "Singularity Technologies for All"
-    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project VIKRAM is developing technologies to bridge the current digital divide and the impending cognitive divide"
+    title: "Singularity Tech for All"
+    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project Vikram  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
     url: "/tech4all/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
-    title: "Language Neutral Technologies"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project VIKRAM together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
-    url: "/project-hindawi/"
+    title: "Linguistic Inclusivity"
+    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
@@ -50,11 +53,7 @@ feature_row:
 
 Launched 3rd May 2020
 
-### विक्रम - सर्वांगीण विकास हितार्थ ग्रामशील फाउंडेशन द्वारा प्रायोजित तकनीकीकरण
-
-### गाँव बढ़ेंगे तो सब बढ़ेंगे
-
-Note: This is an initial announcement. Project VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
 1. Education
 
@@ -78,4 +77,4 @@ Kindly visit the following link to update your issues, change requests or other 
 
 To add an issue please visit the link below and copy paste the template into a new issue
 
-https://github.com/projectvikram/healthcare/issues/1
+[Issue template](https://github.com/projectvikram/healthcare/issues/1)

@@ -1,9 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Us"
 ---
 
-## Project VIKRAM - An inclusive rural digitalization platform inspired by the principles of GramSheel
+# Project Vikram 
+### An inclusive rural digitalization platform inspired by the principles of GramSheel
 
 <b>V</b>irtualized         <br>
 <b>I</b>nfrastructure      <br>
@@ -15,11 +16,15 @@ title: "About"
 
 Launched 3rd May 2020
 
-### विक्रम - सर्वांगीण विकास हितार्थ ग्रामशील फाउंडेशन द्वारा प्रायोजित तकनीकीकरण
+# திட்டம் விக்ரம்
+### ஆல்ரவுண்ட் வளர்ச்சியின் நோக்கத்திற்காக கிராம்ஷீல் அறக்கட்டளையால் ஈர்க்கப்பட்ட கிராமப்புற தொழில்நுட்பமயமாக்கல்
+## கிராமங்களின் வளர்ச்சியே நம் அனைவரின் வளர்ச்சி
 
-### गाँव बढ़ेंगे तो सब बढ़ेंगे
+# प्रकल्प विक्रम
+### सर्वांगीण विकास हितार्थ ग्रामशील फाउंडेशन द्वारा प्रेरित ग्रामीण तकनीकीकरण
+## गांवों के विकास में हम सभी का विकास
 
-Note: This is an initial announcement. Project VIKRAM is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
 1. Education
 

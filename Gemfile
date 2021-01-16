@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Project VIKRAM
+title: TWISHA
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   An inclusive rural digitalization platform inspired by the principles of GramSheel

@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: Project VIKRAM
+title: TWISHA
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg

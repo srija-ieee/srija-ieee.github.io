@@ -40,7 +40,7 @@ feature_row:
 ---
 
 # Chief Advisors
-#### Project Vikram  is honoured to have the following dignitaries on its panel of advisors
+#### TWISHA  is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
 

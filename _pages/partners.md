@@ -19,7 +19,7 @@ feature_row:
 ---
 
 # Partners in Inclusive Development through Cognitization
-#### Project Vikram  is honoured to have the following dignitaries on its panel of advisors
+#### TWISHA  is honoured to have the following dignitaries on its panel of advisors
 
 {% include feature_row %}
 
@@ -29,7 +29,7 @@ feature_row:
 ### AyeAI Consulting
 #### @ayeai
 
-AyeAI Consulting is a cognitive edutech organization and the primary technical partners for Project Vikram.
+AyeAI Consulting is a cognitive edutech organization and the primary technical partners for TWISHA.
 
 ## &#10070;
 
@@ -39,7 +39,7 @@ AyeAI Consulting is a cognitive edutech organization and the primary technical p
 ### AyeAI Consulting
 #### @ayeai
 
-AyeAI Consulting is a cognitive edutech organization and the primary technical partners for Project Vikram.
+AyeAI Consulting is a cognitive edutech organization and the primary technical partners for TWISHA.
 
 ## &#10070;
 

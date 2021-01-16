@@ -18,7 +18,7 @@ feature_row:
     btn_label: "Profile"
 ---
 
-# Team Project Vikram
+# Team TWISHA
 
 {% include feature_row %}
 

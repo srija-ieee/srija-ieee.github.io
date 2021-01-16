@@ -1,4 +1,4 @@
-# Project Vikram 
+# TWISHA 
 ### An inclusive rural digitalization platform inspired by the principles of GramSheel
 
 <b>V</b>irtualized         <br>
@@ -20,7 +20,7 @@ Launched 3rd May 2020
 #### ஆல்ரவுண்ட் வளர்ச்சியின் நோக்கத்திற்காக கிராம்ஷீல் அறக்கட்டளையால் ஈர்க்கப்பட்ட கிராமப்புற தொழில்நுட்பமயமாக்கல்
 ### கிராமங்களின் வளர்ச்சியே நம் அனைவரின் வளர்ச்சி
 
-Note: This is an initial announcement. Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. TWISHA  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
 1. Education
 
@@ -38,7 +38,7 @@ Note: This is an initial announcement. Project Vikram  is a project to make rura
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
 
-Project Vikram - Healthcare section is now ready to accept submissions as issues.
+TWISHA - Healthcare section is now ready to accept submissions as issues.
 
 Kindly visit the following link to update your issues, change requests or other suggestions. All submissions are subject CC-BY-SA 3.0. No warranty and zero liability
 

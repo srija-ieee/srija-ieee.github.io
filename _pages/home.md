@@ -15,27 +15,27 @@ excerpt:
   गांवों के विकास में हम सभी का विकास<br></b>
   <small>
   An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
-  <a href="about/">More about Project Vikram </a>
+  <a href="about/">More about TWISHA </a>
   </small>
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
     title: "Healthcare for All"
-    excerpt: "Healthcare is basic dignity of human life in modern civilization. Project Vikram  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
+    excerpt: "Healthcare is basic dignity of human life in modern civilization. TWISHA  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
     url: "/virtual-hospital/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
     title: "Singularity Tech for All"
-    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. Project Vikram  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
+    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. TWISHA  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
     url: "/tech4all/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
     title: "Linguistic Inclusivity"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. Project Vikram  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. TWISHA  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
@@ -53,7 +53,7 @@ feature_row:
 
 Launched 3rd May 2020
 
-Note: This is an initial announcement. Project Vikram  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+Note: This is an initial announcement. TWISHA  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
 
 1. Education
 
@@ -71,7 +71,7 @@ Note: This is an initial announcement. Project Vikram  is a project to make rura
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
 
-Project Vikram - Healthcare section is now ready to accept submissions as issues.
+TWISHA - Healthcare section is now ready to accept submissions as issues.
 
 Kindly visit the following link to update your issues, change requests or other suggestions. All submissions are subject CC-BY-SA 3.0. No warranty and zero liability
 

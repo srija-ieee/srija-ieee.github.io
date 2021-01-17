@@ -16,7 +16,7 @@ title: Technology 4 All
   <script>
     const domain = 'meet.jit.si';
     const options = {
-      roomName: 'JitsiMeetAPIExample',
+      roomName: 'twishasampleroom2',
       width: 800,
       height: 640,
       configOverwrite: { startWithAudioMuted: true },
@@ -25,6 +25,6 @@ title: Technology 4 All
     };
   const api = new JitsiMeetExternalAPI(domain, options);
   </script>
-  <iframe allow="camera *;microphone *;fullscreen *;autoplay *" src="https://meet.jit.si/twishasampleroom" width="800" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <iframe allow="camera *;microphone *;fullscreen *;autoplay *" src="https://meet.jit.si/twishasampleroom2" width="800" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 

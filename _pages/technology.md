@@ -12,6 +12,19 @@ title: Technology 4 All
         console.log('No mic for you!')
       });
   </script>
-  <iframe allow="camera *;microphone *;fullscreen *;display-capture *;autoplay *" src="https://meet.jit.si/twishasampleroom" width="800" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <script src='https://meet.jit.si/external_api.js'></script>
+  <script>
+    const domain = 'meet.jit.si';
+    const options = {
+      roomName: 'JitsiMeetAPIExample',
+      width: 800,
+      height: 640,
+      configOverwrite: { startWithAudioMuted: true },
+      interfaceConfigOverwrite: { DISABLE_DOMINANT_SPEAKER_INDICATOR: false },
+      parentNode: document.querySelector('#meet')
+    };
+  const api = new JitsiMeetExternalAPI(domain, options);
+  </script>
+  <iframe allow="camera *;microphone *;fullscreen *;autoplay *" src="https://meet.jit.si/twishasampleroom" width="800" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 

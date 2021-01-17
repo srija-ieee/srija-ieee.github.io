@@ -5,7 +5,7 @@ hidden: true
 title: TWISHA
 header:
   overlay_color: "#E6E6FA"
-  overlay_image: assets/images/twisha_banner.jpg
+  overlay_image: assets/images/twisha_banner.png
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"

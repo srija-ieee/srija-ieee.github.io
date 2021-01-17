@@ -5,7 +5,7 @@ hidden: true
 title: TWISHA
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg
+  overlay_image: https://github.com/srijacontrb/gsftwisha.github.io/blob/master/assets/images/twisha_banner.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"

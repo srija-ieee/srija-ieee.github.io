@@ -10,8 +10,6 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>கிராமங்களின் வளர்ச்சியே<br>
-  நம் அனைவரின் வளர்ச்சி<br>
   स्वास्थेव त्विषा<br></b>
   <small>
  The Women in Self Health Awarness <br>
@@ -20,7 +18,7 @@ excerpt:
 feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
-    title: "Twisha Events"
+    title: "Twisha Kits"
     excerpt: "Healthcare is basic dignity of human life and awarness is the key to Health assessment and prevention of illnesses. This intiatives works towards developing awarness about women, child and community health issues and possible preventive measures along with some basic screening tools. TWISHA Kits include Self Assessing Kits, Health Kits Information Leaflets, guides and protocols.
 <br><br><br>"
     url: "/twisha-kits/"
@@ -28,7 +26,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
-    title: "Twisha Kits"
+    title: "Twisha Events"
     excerpt: " Healthcare is basic dignity of human life in modern civilization and awarness is the key to selfcare and prevention of illness. This intiative is  designed to provide awarness about basic women, child and community health related issues & preventive measures along with some basic screening tool. TWISHA kits  include Self Health Assessing Kits / Health Information Leaflets/ Guides and protocols.<br><br><br>"
     url: "/twisha-media-intiatives/"
     btn_class: "btn--primary"
@@ -42,20 +40,6 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
-{% include feature_row %}
-
-<b>T</b>irtualized         <br>
-<b>I</b>nfrastructure      <br>
-    for                    <br>
-<b>K</b>nowledge-driven    <br> 
-<b>R</b>ural               <br>
-<b>A</b>scension           <br>
-<b>M</b>anagement          <br>
-
-Launched 3rd May 2020
-
-Note: This is an initial announcement. 
-
 Twisha, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. 
 
 The scope of Project Twisha include women’s health issues (direct objective), child health issues (parallel objective), and domestic health issues (indirect objective targeting alcoholism, sanitation, water etc.)
@@ -67,10 +51,5 @@ Twisha’s activities include and are based on strong research and development (
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
 
-TWISHA - Healthcare section is now ready to accept submissions as issues.
 
-Kindly visit the following link to update your issues, change requests or other suggestions. All submissions are subject CC-BY-SA 3.0. No warranty and zero liability
 
-To add an issue please visit the link below and copy paste the template into a new issue
-
-[Issue template](https://github.com/projectvikram/healthcare/issues/1)

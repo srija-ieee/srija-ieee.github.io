@@ -10,7 +10,7 @@ header:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  स्वास्थेव त्विषा<br></b>
+  स्वास्थेव त्विषा<br>
   <small>
  The Women in Self Health Awarness <br>
   <a href="about/">More about TWISHA </a>

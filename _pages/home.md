@@ -21,7 +21,8 @@ feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
     title: "Twisha Events"
-    excerpt: "Healthcare is basic dignity of human life in modern civilization. TWISHA  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
+    excerpt: "Healthcare is basic dignity of human life and awarness is the key to Health assessment and prevention of illnesses. This intiatives works towards developing awarness about women, child and community health issues and possible preventive measures along with some basic screening tools. TWISHA Kits include Self Assessing Kits, Health Kits Information Leaflets, guides and protocols.
+<br><br><br>"
     url: "/twisha-kits/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

@@ -22,19 +22,19 @@ feature_row:
     alt: "health4all"
     title: "Twisha Events"
     excerpt: "Healthcare is basic dignity of human life in modern civilization. TWISHA  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
-    url: "/virtual-hospital/"
+    url: "/twisha-kits/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
     title: "Twisha Kits"
-    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. TWISHA  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
-    url: "/tech4all/"
+    excerpt: " Healthcare is basic dignity of human life in modern civilization and awarness is the key to selfcare and prevention of illness. This intiative is  designed to provide awarness about basic women, child and community health related issues & preventive measures along with some basic screening tool. TWISHA kits  include Self Health Assessing Kits / Health Information Leaflets/ Guides and protocols.<br><br><br>"
+    url: "/twisha-media-intiatives/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
-    title: "Women, Child & Family Health"
+    title: "TWISHA-Media Intiatives"
     excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. TWISHA  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
@@ -43,7 +43,7 @@ feature_row:
 
 {% include feature_row %}
 
-<b>V</b>irtualized         <br>
+<b>T</b>irtualized         <br>
 <b>I</b>nfrastructure      <br>
     for                    <br>
 <b>K</b>nowledge-driven    <br> 

@@ -19,22 +19,22 @@ feature_row:
   - image_path: /assets/images/vikram-h4all.jpg
     alt: "health4all"
     title: "Twisha Kits"
-    excerpt: "Healthcare is basic dignity of human life and awarness is the key to Health assessment and prevention of illnesses. This intiatives works towards developing awarness about women, child and community health issues and possible preventive measures along with some basic screening tools. TWISHA Kits include Self Assessing Kits, Health Kits Information Leaflets, guides and protocols.
+    excerpt: "Healthcare is basic dignity of human life and awarness is the key to Health assessment and prevention of illnesses. This intiatives works towards developing awareness on women, child and community health issues and possible preventive measures along with some basic screening tools. TWISHA Kits include Self Assessing Kits, Health Kits Information Leaflets, guides and protocols.
 <br><br><br>"
-    url: "/twisha-kits/"
+    url: "/twisha-media-intiatives/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/sing-tech.jpg
     alt: "democratised singularity"
-    title: "Twisha Events"
-    excerpt: " Healthcare is basic dignity of human life in modern civilization and awarness is the key to selfcare and prevention of illness. This intiative is  designed to provide awarness about basic women, child and community health related issues & preventive measures along with some basic screening tool. TWISHA kits  include Self Health Assessing Kits / Health Information Leaflets/ Guides and protocols.<br><br><br>"
-    url: "/twisha-media-intiatives/"
+    title: "Twisha Media Intiatives"
+    excerpt: "We reach the people, interact, discuss and educate on various Women, Child and Community health aspects through Webinars, Symposium,Videos, Panel Discussions, Campaigns and more.<br><br><br>"
+    url: "/twisha-training/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hindawi-progg-sys.jpg
     alt: "language neutrality"
-    title: "TWISHA-Media Intiatives"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. TWISHA  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    title: "TWISHA-Training"
+    excerpt: " TWISHA trains its volunteers to become self health awarness enablers, these trainings equip them with neccessary skills to aid basic healthcare protocols also assist digi health and Telemedicine."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

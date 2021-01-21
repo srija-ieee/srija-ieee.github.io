@@ -1,5 +1,5 @@
 ---
-permalink: /child health/
+permalink: /childhealth/
 title: Child Health
 ---
 

@@ -7,14 +7,6 @@ title: "About Us"
 ### The Women In Self Health Awarnesss
 #### A Healthforall Intiatives under ProjectVIKRAM
 
-<b>V</b>irtualized         <br>
-<b>I</b>nfrastructure      <br>
-    for                    <br>
-<b>K</b>nowledge-driven    <br> 
-<b>R</b>ural               <br>
-<b>A</b>scension           <br>
-<b>M</b>anagement          <br>
-
 ## स्वास्थेव त्विषा
 TWISHA, The Women In Self-Health Awareness is project by GramSheel Foundation. Twisha network envisions the lady as the epicenter of the social unit, next her kids, then family and the society.
 

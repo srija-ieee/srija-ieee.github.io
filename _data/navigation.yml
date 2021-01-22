@@ -19,8 +19,8 @@ main:
  
   - title: Child Health
     url: /childhealth/
-  - title: Industries
-    url: /industries/
+  - title: Family Health
+    url: /familyhealth/
   - title: Women Health
     url: /womenhealth/
 

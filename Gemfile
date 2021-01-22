@@ -87,10 +87,10 @@ author:
       url: "https://instagram.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/ProjectVIKRAM"
+      url: "https://www.facebook.com/Twisha-384439938650057"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/project-vikram"
+      url: "https://https://www.linkedin.com/company/twisha"
 
 footer:
   links:

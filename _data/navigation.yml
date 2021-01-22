@@ -16,9 +16,7 @@ main:
     
   - title: Technology
     url: /technology/
-  - title: Resources
-    url: /resources/
-
+ 
   - title: Livelihood
     url: /livelihood/
   - title: Industries
@@ -28,15 +26,7 @@ main:
 
   - title: Family Health
     url: /familyhealth/
-  - title: Food Processing & Agriculture
-    url: /food_processing_and_agriculture/
-  - title: Space Exploration
-    url: /space_exploration/
-  - title: Environment & Habitat
-    url: /environment_and_habitat/
-
-  - title: Socialising
-    url: /socialising/
+  
   - title: Family Health
     url: /familyhealth/
   - title: Peace

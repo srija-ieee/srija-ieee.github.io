@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "TWISHA "
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "The Women in Self Health Awarness"
+  bio    : "The Women in Self Health Awareness"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

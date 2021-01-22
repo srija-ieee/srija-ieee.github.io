@@ -26,9 +26,6 @@ main:
 
   - title: Family Health
     url: /familyhealth/
-  
-  - title: Family Health
-    url: /familyhealth/
   - title: Peace
     url: /peace/
   - title: "Categories"
@@ -37,7 +34,6 @@ main:
     url: /tags/
   - title: "Posts"
     url: /posts/
-
 
   - title: "License"
     url: /license/

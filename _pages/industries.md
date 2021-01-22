@@ -1,11 +1,10 @@
 ---
-permalink: /industries/
-title: Industries 4 All
+permalink: /familyhealth/
+title: Family Health
 ---
 
-A few more industries need to become functional (and they can function as cottage industry - gig economy minus exploitation) - textiles and garments, household plastics can mostly be 3D printed, metal work stuff need some community level resources
+Woman play a major role in ensuring the health and wellness of the family, TWISHA assists them in playing their roles better. Family Health section of TWISHA concentrates on aspects like :
 
-[Reference]
-
-
-[Reference]: https://www.linkedin.com/pulse/lockdowns-cognitive-economy-choudhary-mba-engineer-psychologist/?fbclid=IwAR3eI9SViIMXZeGyT03qkfgROg3Hn7Fcsx4-y0-YKihAF97_YStDrnMks44
+1 Home Hygiene
+2 Alcohol de-additiction
+3 Food and Water Hygiene

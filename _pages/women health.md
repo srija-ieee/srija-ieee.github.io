@@ -1,5 +1,5 @@
 ---
-permalink: /Women Health/
+permalink: /womenhealth/
 title: Women Health
 
 TWISHA works on various women health aspects such as : 

@@ -1,5 +1,5 @@
 ---
-permalink: /family health/
+permalink: /familyhealth/
 title: Family Health 
 ---
 

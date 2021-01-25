@@ -55,10 +55,6 @@ Disclaimer: This is being shared for academic and information purposes only. The
 
 
 Find the latest posts below :
----
-permalink: /contrib_form/
-title: Contributors' Details Form
----
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}

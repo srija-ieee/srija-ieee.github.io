@@ -79,10 +79,3 @@ To add an issue please visit the link below and copy paste the template into a n
 
 [Issue template](https://github.com/projectvikram/healthcare/issues/1)
 
-
-
-ONGOING SERIES
-
-https://github.com/srija-ieee/projectvikram.github.io/blob/master/assets/images/series-scientific-frontiers-in-stem.png
-
-Click here for upcoming sessions 

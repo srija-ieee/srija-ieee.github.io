@@ -24,7 +24,7 @@ feature_row:
     url: "/TWISHA Events/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/sing-tech.jpg
+  - image_path: /assets/images/twishaevents_banner.png
     alt: "democratised singularity"
     title: "TWISHA Events"
     excerpt: "We reach the people, interact, discuss and educate on various Women, Child and Community health aspects through Webinars, Symposium,Videos, Panel Discussions, Campaigns and more.<br><br><br>"

@@ -5,7 +5,7 @@ feature_row:
   - image_path: https://projectvikram.github.io/restricted_assets/images/ac_photo.jpg
     alt: "Abhishek Choudhary (avatar image)"
     title: "Abhishek Choudhary"
-    excerpt: "Founder,Bursa-Convenor"
+    excerpt: "Founder, Bursa-Convenor"
     url: "/team/#Abhishek-Choudhary"
     btn_class: "btn--primary"
     btn_label: "Profile"

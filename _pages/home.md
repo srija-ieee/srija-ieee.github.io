@@ -16,8 +16,8 @@ excerpt:
   <a href="about/">More about TWISHA </a>
   </small>
 feature_row:
-  - image_path: /assets/images/twishakits_banner_v2.0.jpg
-    alt: "health4all"
+  - image_path: /assets/images/twishakits_banner.jpg
+    alt: "twishakits"
     title: "TWISHA Kits"
     excerpt: "Healthcare is basic dignity of human life and awarness is the key to Health assessment and prevention of illnesses. This intiatives works towards developing awareness on women, child and community health issues and possible preventive measures along with some basic screening tools. TWISHA Kits include Self Assessing Kits, Health Kits Information Leaflets, guides and protocols.
 <br><br><br>"

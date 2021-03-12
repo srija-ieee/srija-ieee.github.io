@@ -5,14 +5,14 @@ feature_row:
   - image_path: https://projectvikram.github.io/restricted_assets/images/ac_photo.jpg
     alt: "Abhishek Choudhary (avatar image)"
     title: "Abhishek Choudhary"
-    excerpt: "Founding Architect & Convenor"
+    excerpt: "Founder,Bursa-Convenor"
     url: "/team/#Abhishek-Choudhary"
     btn_class: "btn--primary"
     btn_label: "Profile"
   - image_path: https://projectvikram.github.io/restricted_assets/images/dr_srija.jpg
     alt: "Dr Srija Katta (avatar image)"
     title: "Dr Srija Katta"
-    excerpt: "Technology Evangelist-Pharma & Convenor"
+    excerpt: "Convenor and Head of Research"
     url: "/team/#dr-srija-katta"
     btn_class: "btn--primary"
     btn_label: "Profile"
@@ -25,7 +25,7 @@ feature_row:
 <img src="https://projectvikram.github.io/restricted_assets/images/ac_photo.jpg" alttext="Abhishek Choudhary (avatar image)" width="300" height="300">
 
 ## Abhishek Choudhary
-### Founding Architect & Convenor
+### Founder, Bursa - Convenor
 #### @obonac
 
 Abhishek Choudhary is the founder and managing partner of AyeAI Consulting - a startup developing IaaS for scientific and cognitive computing towards accessible healthcare. 
@@ -43,7 +43,7 @@ He is multidisciplinary trained in Pre-clinical Medicine, Neural Engineering, Me
 <img src="https://projectvikram.github.io/restricted_assets/images/dr_srija.jpg" alttext="Dr Srija Katta (avatar image)" width="300" height="300">
 
 ## Dr Srija Katta 
-### Technology Evangelist-Pharma and Convenor
+### Convenor and Head of Research
 #### @srija-ieee
 
 Dr Srija is the Co-Founder of AyeAI Consulting and heads Company Operations and Pharma lab. She is a Director at Vyas Labs Pvt Ltd and Interglial Healthcare (OPC) Pvt Ltd. 

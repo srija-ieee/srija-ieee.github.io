@@ -27,8 +27,8 @@ feature_row:
   - image_path: /assets/images/twishaevents_banner.png
     alt: "democratised singularity"
     title: "TWISHA Events"
-    excerpt: "We reach the people, interact, discuss and educate on various Women, Child and Community health aspects through Webinars, Symposium,Videos, Panel Discussions, Campaigns and more.<br><br><br>"
-    url: "/TWISHA-training/"
+    excerpt: "We reach people, interact, discuss and educate on various Women, Child, family and Community health aspects through Webinars, Symposium,Videos, Panel Discussions, Campaigns and more.<br><br><br>"
+    url: "/TWISHA Training/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/twishaskills_banner.png

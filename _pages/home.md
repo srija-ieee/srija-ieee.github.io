@@ -16,7 +16,7 @@ excerpt:
   <a href="about/">More about TWISHA </a>
   </small>
 feature_row:
-  - image_path: /assets/images/vikram-h4all.jpg
+  - image_path: /assets/images/twishakits_banner.png
     alt: "health4all"
     title: "TWISHA Kits"
     excerpt: "Healthcare is basic dignity of human life and awarness is the key to Health assessment and prevention of illnesses. This intiatives works towards developing awareness on women, child and community health issues and possible preventive measures along with some basic screening tools. TWISHA Kits include Self Assessing Kits, Health Kits Information Leaflets, guides and protocols.
@@ -31,7 +31,7 @@ feature_row:
     url: "/TWISHA-training/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/hindawi-progg-sys.jpg
+  - image_path: /assets/images/twishatraining_banner.png
     alt: "language neutrality"
     title: "TWISHA-Training"
     excerpt: " TWISHA trains its volunteers to become self health awarness enablers, these trainings equip them with neccessary skills to aid basic healthcare protocols also assist digi health and Telemedicine."

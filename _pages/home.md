@@ -31,7 +31,7 @@ feature_row:
     url: "/TWISHA-training/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/twishatraining_banner.png
+  - image_path: /assets/images/twishaskills_banner.png
     alt: "language neutrality"
     title: "TWISHA-Training"
     excerpt: " TWISHA trains its volunteers to become self health awarness enablers, these trainings equip them with neccessary skills to aid basic healthcare protocols also assist digi health and Telemedicine."

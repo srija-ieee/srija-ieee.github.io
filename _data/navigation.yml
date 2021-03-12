@@ -16,38 +16,22 @@ main:
     
   - title: Technology
     url: /technology/
-  - title: Resources
-    url: /resources/
+ 
+  - title: Child Health
+    url: /childhealth/
+  - title: Family Health
+    url: /familyhealth/
+  - title: Women Health
+    url: /womenhealth/
 
-  - title: Livelihood
-    url: /livelihood/
-  - title: Industries
-    url: /industries/
-  - title: Education
-    url: /education/
-
-  - title: Healthcare & Biosciences
-    url: /health/
-  - title: Food Processing & Agriculture
-    url: /food_processing_and_agriculture/
-  - title: Space Exploration
-    url: /space_exploration/
-  - title: Environment & Habitat
-    url: /environment_and_habitat/
-
-  - title: Socialising
-    url: /socialising/
-  - title: Justice
-    url: /justice/
-  - title: Peace
-    url: /peace/
+  - title: Community Health
+    url: /communityhealth/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
   - title: "Posts"
     url: /posts/
-
 
   - title: "License"
     url: /license/

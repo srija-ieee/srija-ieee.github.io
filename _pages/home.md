@@ -4,38 +4,37 @@ permalink: /
 hidden: true
 title: TWISHA
 header:
-  overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/a0/Ploughing_with_cattle_in_West_Bengal.jpg
+  overlay_color: "#E6E6FA"
+  overlay_image: assets/images/twisha_banner_blacktheme.png
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>கிராமங்களின் வளர்ச்சியே<br>
-  நம் அனைவரின் வளர்ச்சி<br>
-  स्वास्थेव त्विषा<br></b>
+  स्वास्थेव त्विषा<br>
   <small>
-  An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
+ The Women in Self Health Awarness <br>
   <a href="about/">More about TWISHA </a>
   </small>
 feature_row:
-  - image_path: /assets/images/vikram-h4all.jpg
+  - image_path: /assets/images/twishakits_banner.png
     alt: "health4all"
-    title: "Twisha Events"
-    excerpt: "Healthcare is basic dignity of human life in modern civilization. TWISHA  is setting up the tools for an accessible virtual hospital. These include EMR, HMS, PACS among other tools along with AI enablement<br><br><br>"
-    url: "/virtual-hospital/"
+    title: "TWISHA Kits"
+    excerpt: "Healthcare is basic dignity of human life and awarness is the key to Health assessment and prevention of illnesses. This intiatives works towards developing awareness on women, child and community health issues and possible preventive measures along with some basic screening tools. TWISHA Kits include Self Assessing Kits, Health Kits Information Leaflets, guides and protocols.
+<br><br><br>"
+    url: "/TWISHA Events/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/sing-tech.jpg
+  - image_path: /assets/images/twishaevents_banner.png
     alt: "democratised singularity"
-    title: "Twisha Kits"
-    excerpt: "Science and technology have ushered in a new era for our species, but the advances have also ridged new divides. TWISHA  is developing technologies to bridge the current digital divide and the impending cognitive divide<br><br><br>"
-    url: "/tech4all/"
+    title: "TWISHA Events"
+    excerpt: "We reach people, interact, discuss and educate on various Women, Child, family and Community health aspects through Webinars, Symposium,Videos, Panel Discussions, Campaigns and more.<br><br><br>"
+    url: "/TWISHA Training/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/hindawi-progg-sys.jpg
+  - image_path: /assets/images/twishaskills_banner.png
     alt: "language neutrality"
-    title: "Women, Child & Family Health"
-    excerpt: "Free as in freedom! True freedom can only be achieved in the most creative states of mind. The mind is most creative when free to work with the mother tongue. TWISHA  together with Project Hindawi is ushering in lanaguage neutrality across technical domains."
+    title: "TWISHA-Training"
+    excerpt: " TWISHA trains its volunteers to become self health awarness enablers, these trainings equip them with neccessary skills to aid basic healthcare protocols also assist digi health and Telemedicine."
     url: "https://hindawiai.github.io/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
@@ -43,38 +42,26 @@ feature_row:
 
 {% include feature_row %}
 
-<b>V</b>irtualized         <br>
-<b>I</b>nfrastructure      <br>
-    for                    <br>
-<b>K</b>nowledge-driven    <br> 
-<b>R</b>ural               <br>
-<b>A</b>scension           <br>
-<b>M</b>anagement          <br>
+TWISHA, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. 
 
-Launched 3rd May 2020
+The scope of Project TWISHA include women’s health issues (direct objective), child health issues (parallel objective), and domestic health issues (targeting alcoholism, sanitation, water etc.)
 
-Note: This is an initial announcement. TWISHA  is a project to make rural digitalization accessible, inclusive and democratized (as in equal opportunity not political). The project works on the digitalization of at least the  following areas.
+TWISHA designs kits for assessing self-health, related books, and simple health packets (containing PCC etc.). The media initiatives under TWISHA produce blogs, articles, and tweets. Along with this TWISHA trains volunteers as self-health awareness enablers. TWISHA also produces videos covering expert advice and panel discussions or events related to women’s health issues.
 
-1. Education
-
-2. Healthcare
-
-3. Livelihood (ISIC domains of economic activities)
-
-4. Social Justice
-
-5. Habitat and Environment
-
-6. Agriculture and Food
-
-7. Peace and harmony through social dialog 
+TWISHA’s activities include and are based on strong research and development (R&D). This primarily concerns medical research on women’s health issues and medical devices / telemedicine for women.
+ 
 
 Disclaimer: This is being shared for academic and information purposes only. There is no guarantee or liability of any kind or consideration. There is no claim to accuracy or fitment for any purpose.
 
-TWISHA - Healthcare section is now ready to accept submissions as issues.
 
-Kindly visit the following link to update your issues, change requests or other suggestions. All submissions are subject CC-BY-SA 3.0. No warranty and zero liability
+Find the latest posts below :
 
-To add an issue please visit the link below and copy paste the template into a new issue
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap" markdown="0">
+<!-- this is the embed code provided by Google -->
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTwisha-384439938650057&tabs=timeline&width=5000&height=900&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="5000" height="900" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 
-[Issue template](https://github.com/projectvikram/healthcare/issues/1)
+

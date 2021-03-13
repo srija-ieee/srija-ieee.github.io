@@ -35,7 +35,7 @@ feature_row:
     alt: "language neutrality"
     title: "TWISHA Skills"
     excerpt: " TWISHA trains its volunteers to become self health awarness enablers, these trainings equip them with neccessary skills to aid basic healthcare protocols also assist digi health and Telemedicine."
-    url: "/twishaskills_presentation.md/"
+    url: "/twisha-skills/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

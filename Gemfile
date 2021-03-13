@@ -65,7 +65,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/twisha_logo_oval.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Twitter"

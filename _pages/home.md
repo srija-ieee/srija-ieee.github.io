@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 hidden: true
-title: Project VIKRAM
+title: Dr Srija Katta, PharmD
 header:
   overlay_color: "#4d2e00"
   overlay_image: https://scontent.fhyd11-1.fna.fbcdn.net/v/t1.6435-9/179171824_3973742059383240_339498216393137246_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=ZZElscOAXE0AX8rYR2c&_nc_oc=AQkKjMRuGM6HDXwKa71nu-JxjtgTR0xJQ7uhwad4y48LwGkFR0XNTeGJkvTbLpWfH1z2ZW6i7YtDU-TXjgcYh0Sb&_nc_ht=scontent.fhyd11-1.fna&oh=8c8173649c546c4eede21eb3757f0e0e&oe=60D67D9F

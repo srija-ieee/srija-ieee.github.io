@@ -7,7 +7,7 @@ main:
   - title: Make a blog
     url: /example1/
   - title: Support meetings
-    url: /meeting/
+    url: /meetings/
   - title: Fork it
     url: /example1/
   - title: Update...

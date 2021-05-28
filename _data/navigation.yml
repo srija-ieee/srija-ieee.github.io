@@ -30,6 +30,12 @@ main:
   - title: "Posts"
     url: /posts/
     
+  - title: "Partners"
+    url: /partners/
+  - title: "Team"
+    url: /team/
+ 
+    
   - title: "License"
     url: /license/
   - title: "Terms & Conditions"

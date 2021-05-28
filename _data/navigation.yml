@@ -19,6 +19,9 @@ main:
 
   - title: Template
     url: /template/
+  - title: Animation
+    url: /anim/
+    
 
   - title: "Categories"
     url: /categories/
@@ -26,6 +29,14 @@ main:
     url: /tags/
   - title: "Posts"
     url: /posts/
+    
+  - title: "Partners"
+    url: /partners/
+  - title: "Team"
+    url: /team/
+  - title: "Form"
+    url: /form/
+ 
     
   - title: "License"
     url: /license/

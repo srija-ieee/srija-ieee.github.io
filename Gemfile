@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "AyeAI Consulting"
   avatar : "/assets/images/ayetutor.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "AyeAI is a cognitive edutech company. We make technology democratic."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

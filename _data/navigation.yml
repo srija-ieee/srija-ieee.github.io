@@ -12,11 +12,11 @@ main:
     url: /example2 
   - title: You are live...
     url: /example3/
-  - title: Template
+  - title: Get is now!
     url: /example4/
 
   - title: Template
-    url: /example4/
+    url: /template/
 
   - title: "Categories"
     url: /categories/

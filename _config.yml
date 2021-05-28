@@ -12,10 +12,10 @@
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# in the sites via {{ site.myvariable }}.
 # last update @srija-ieee
 
-title: AyePages™ Template
+title: AyePages™ 
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This is a demo website meant for academic purposes.
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AyePages™ Template"
+  name   : "AyePages™ "
   avatar : "/assets/images/ayetutor.png"
-  bio    : "AyePages™ Template"
+  bio    : "AyePages™ "
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

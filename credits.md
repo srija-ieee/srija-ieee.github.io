@@ -1,5 +1,1 @@
----
-permalink: /credits/
-title: credits
----
 

@@ -7,14 +7,12 @@ header:
   overlay_color: "#4d2e00"
   overlay_image: https://scontent.fhyd11-1.fna.fbcdn.net/v/t1.6435-9/179171824_3973742059383240_339498216393137246_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=ZZElscOAXE0AX8rYR2c&_nc_oc=AQkKjMRuGM6HDXwKa71nu-JxjtgTR0xJQ7uhwad4y48LwGkFR0XNTeGJkvTbLpWfH1z2ZW6i7YtDU-TXjgcYh0Sb&_nc_ht=scontent.fhyd11-1.fna&oh=8c8173649c546c4eede21eb3757f0e0e&oe=60D67D9F
   actions:
-    - label: "<i class='fas fa-github'></i> Join us"
+    - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
 excerpt:
-  <b>கிராமங்களின் வளர்ச்சியே<br>
-  நம் அனைவரின் வளர்ச்சி<br>
-  गांवों के विकास में हम सभी का विकास<br></b>
+  <b>An inclusive rural digitalization platform<br>
+  inspired by the principles of GramSheel</b><br>
   <small>
-  An inclusive rural digitalization platform inspired by the principles of GramSheel<br>
   <a href="about/">More about Project Vikram </a>
   </small>
 feature_row:
@@ -40,6 +38,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+
+<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
 {% include feature_row %}
 

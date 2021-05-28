@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "AyePages™ "
+  name   : "AyeAI Consulting"
   avatar : "/assets/images/ayetutor.png"
-  bio    : "AyePages™ "
+  bio    : "AyeAI is a cognitive edutech company"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"

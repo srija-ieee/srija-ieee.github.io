@@ -27,5 +27,12 @@ main:
   - title: "Posts"
     url: /posts/
     
+  - title: "License"
+    url: /license/
+  - title: "Terms & Conditions"
+    url: /terms/
+  - title: "Privacy Policy"
+    url: /privacy/
+    
     
   

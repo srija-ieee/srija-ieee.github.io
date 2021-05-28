@@ -39,6 +39,8 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
+
 {% include feature_row %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum

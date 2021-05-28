@@ -19,6 +19,9 @@ main:
 
   - title: Template
     url: /template/
+  - title: Animation
+    url: /anim/
+    
 
   - title: "Categories"
     url: /categories/

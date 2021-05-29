@@ -41,12 +41,20 @@ main:
   - title: "data visualization"
     url: /datavisualization/
     
+    
   - title: "License"
     url: /license/
   - title: "Terms & Conditions"
     url: /terms/
   - title: "Privacy Policy"
     url: /privacy/
+    
+    
+  - title: "FB Post"
+    url: /fbpost/
+  - title: "Linkedin Post"
+    url: /linkedinpost/
+  
     
     
   

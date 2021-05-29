@@ -36,7 +36,10 @@ main:
     url: /team/
   - title: "Form"
     url: /form/
- 
+  - title: "Video"
+    url: /video/
+  - title: "data visualization"
+    url: /datavisualization/
     
   - title: "License"
     url: /license/

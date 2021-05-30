@@ -1,6 +1,6 @@
 main:
-  - title: Home
-    url: /
+  - title: AyeAI
+    url: https://ayeai.xyz/
     
   - title: Create a site
     url: /example1/

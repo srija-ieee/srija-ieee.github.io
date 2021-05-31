@@ -26,7 +26,8 @@ feature_row:
   - image_path: /assets/images/image2.jpg
     alt: "Highlight2"
     title: "AyeAI Free Tools"
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur<br><br><br>"
+    excerpt: "As a give back to the community AyeAI produces many free tools that helps and eases many tedious tasks.
+The tools include a simple QR Code generator, a beautiful word cloud production tool, Hindawi Programming System Notebook where users can experience coding in Hindi and More<br><br><br>"
     url: "/Highlight3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

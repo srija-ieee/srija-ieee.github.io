@@ -5,7 +5,7 @@ hidden: true
 title: AyePages™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
+  overlay_image: https://docs.google.com/drawings/d/e/2PACX-1vQ-4_olY3tfY7KChw2LZel_GpQ_D3XDLDkfrzV3XeFvzKlp0KkW9voLm3CVev5l4TmoJbHW3TAL7laZ/pub?w=1392&h=454
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"

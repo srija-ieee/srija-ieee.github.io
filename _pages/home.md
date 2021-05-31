@@ -19,7 +19,8 @@ feature_row:
   - image_path: /assets/images/image1.jpg
     alt: "Highlight1"
     title: "AyeAI Courses"
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur<br><br><br>"
+    excerpt: "Our learning programs are designed to k-17 target group, i,e from the kids in the kindergarden to scholars of PhDs and young professionals in the corporates.We make it simpler, experiential and  we also provide an ecosystem to innovate and realise your dreams. Our projects are Industry grade, opensource and Internationally recognised.we analyse the students gaps and help them bridge to their aspirations.Our courses range from a single day workshop AI Day(S),(a domain specific customised introduction to the Hands on Artificial Intelligence workshop) to  6 months long courses,FstarT which include FET-Future Engineers'Training, FDT- Future Doctors'Training, FRxT -Future Pharmacists's Training and more,Robotopia and Scitopia are an experiential Robotic and STEM based programs enabled with adavance technologies. We also provide customised corporate trainings.
+<br><br><br>"
     url: "/Highlight2/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

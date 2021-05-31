@@ -34,7 +34,7 @@ The tools include a simple QR Code generator, a beautiful word cloud production 
   - image_path: /assets/images/image3.jpg
     alt: "Highlight3"
     title: "AyeAI Projects"
-    excerpt: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    excerpt: " Our projects are Industry grade, opensource and Internationally recognised. Our proof of concepts (POC) products lie around HEJLP (Healthcare,Education,Justice,Livelihood and Peace) with primary focus on Healthcare, providing our flagship product Autonomous Ambulance(AyeAM) Our projects are Industry grade, opensource and Internationally recognised.Our research supports rural digitalization and cognitization projects under the Project VIKRAM initiative towards inclusive AI, with innovations in healthcare and education for the next billion users<br><br><br>"
     url: "/Highlight3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

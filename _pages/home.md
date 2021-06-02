@@ -5,7 +5,7 @@ hidden: true
 title: AyePages™ 
 header:
   overlay_color: "#4d2e00"
-  overlay_image: https://docs.google.com/drawings/d/e/2PACX-1vQ-4_olY3tfY7KChw2LZel_GpQ_D3XDLDkfrzV3XeFvzKlp0KkW9voLm3CVev5l4TmoJbHW3TAL7laZ/pub?w=1392&h=454
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/23/Forest_%28119%29.jpg
   actions:
     - label: "<i class='fas fa-fw fa-handshake'></i> Join us"
       url: "/join-us/"
@@ -18,24 +18,23 @@ excerpt:
 feature_row:
   - image_path: /assets/images/image1.jpg
     alt: "Highlight1"
-    title: "AyeAI Courses"
-    excerpt: "Our learning programs are designed to k-17 target group, i,e from the kids in the kindergarden to scholars of PhDs and young professionals in the corporates.we analyse the students gaps and help them bridge to their aspirations and also provide an ecosystem to innovate and realise your ideas.Our courses range from a single day workshop AI Day(S),to  6 months long FET,FDT,FRxT and FPT. For younger students Robotopia and Scitopia and for we also offer customised corporate trainings.<br><br><br>"
+    title: "Highlight-1"
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur<br><br><br>"
     url: "/Highlight2/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/image2.jpg
     alt: "Highlight2"
-    title: "AyeAI Free Tools"
-    excerpt: "As a give back to the community AyeAI produces many free tools that helps and eases many tedious tasks.
-The tools include a simple QR Code generator, a beautiful word cloud production tool, Hindawi Programming System Notebook where users can experience coding in Hindi and More<br><br><br>"
+    title: "Highlight-2"
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur<br><br><br>"
     url: "/Highlight3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/image3.jpg
     alt: "Highlight3"
-    title: "AyeAI Projects"
-    excerpt: " Our projects are Industry grade, opensource and Internationally recognised. Our proof of concepts (POC) products lie around HEJLP (Healthcare,Education,Justice,Livelihood and Peace) with primary focus on Healthcare, providing our flagship product Autonomous Ambulance(AyeAM) Our projects are Industry grade, opensource and Internationally recognised.Our research supports rural digitalization and cognitization projects under the Project VIKRAM initiative towards inclusive AI, with innovations in healthcare and education for the next billion users<br><br><br>"
-    url: "/Highlight3/"
+    title: "Highlight-3"
+    excerpt: " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    url: "/Highlight2/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---

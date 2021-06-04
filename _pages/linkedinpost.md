@@ -1,5 +1,5 @@
 ---
-permalink: /linkedin/
+permalink: /linkedinpost/
 title: Linkedin Post
 ---
 

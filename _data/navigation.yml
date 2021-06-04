@@ -38,7 +38,7 @@ main:
     url: /form/
   - title: "Video"
     url: /video/
-  - title: "data visualization"
+  - title: "Data Visualization"
     url: /datavisualization/
     
     

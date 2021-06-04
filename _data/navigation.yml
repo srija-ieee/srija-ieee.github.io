@@ -36,7 +36,11 @@ main:
     url: /team/
   - title: "Form"
     url: /form/
- 
+  - title: "Video"
+    url: /video/
+  - title: "data visualization"
+    url: /datavisualization/
+    
     
   - title: "License"
     url: /license/
@@ -44,6 +48,13 @@ main:
     url: /terms/
   - title: "Privacy Policy"
     url: /privacy/
+    
+    
+  - title: "FB Post"
+    url: /fbpost/
+  - title: "Linkedin Post"
+    url: /linkedinpost/
+  
     
     
   

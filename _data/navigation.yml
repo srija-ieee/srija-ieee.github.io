@@ -3,15 +3,15 @@ main:
     url: https://ayeai.xyz/
     
   - title: Create a site
-    url: /example1/
+    url: /learn/
   - title: Make a blog
-    url: /example1/
+    url: /learn/
   - title: Support meetings
     url: /meetings/
   - title: Fork it
-    url: /example1/
+    url: /fork/
   - title: Update...
-    url: /example2 
+    url: /fork/
   - title: You are live...
     url: /example3/
   - title: Get is now!

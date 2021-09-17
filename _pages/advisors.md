@@ -169,7 +169,7 @@ The network has currently piloted in rural and urban Indian locations with encou
 
 ## &#10070;
 
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQFLi-diAfeDBQ/profile-displayphoto-shrink_100_100/0?e=1600905600&v=beta&t=690UzCIImePN0M-xnJjqKmPdjZIhEV0p89nrmcFSI5o" alttext="Anamika Mehta (avatar image)" width="300" height="300">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQFLi-diAfeDBQ/profile-displayphoto-shrink_200_200/0/1516275894303?e=1637193600&v=beta&t=4_zmUiVa0cihwcXPOJ7jXwNhwDD1zjaszv62Z8HSUM4" alttext="Anamika Mehta (avatar image)" width="300" height="300">
 
 ## Ms Anamika Mehta <sub>MSc Genetics</sub>
 ### Chief Advisor - Molecular and Clinical Genetics

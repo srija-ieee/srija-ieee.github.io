@@ -39,6 +39,9 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+<a href="http://archiveready.com/check?url=https://projectvikram.github.io" title="Website Archivability Testing"><img src="http://archiveready.com/img/archiveready-badge.png" alt="" /></a>
+<a href="https://validator.w3.org/feed/check.cgi?url=https%3A//projectvikram.github.io/feed.xml"><img src="valid-atom.png" alt="[Valid Atom 1.0]" title="Validate my Atom 1.0 feed" /></a>
+
 <iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
 
 {% include feature_row %}

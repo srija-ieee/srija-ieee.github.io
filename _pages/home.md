@@ -40,7 +40,21 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+<iframe allowfullscreen="false" frameborder="0" mozallowfullscreen="false" src="https://docs.google.com/presentation/d/e/2PACX-1vT5K9ijpA0fuuS4OJTQMwoMaQrZm5dMCXisLRBgVzxQ7I5312_uHAqZvvJIA_5KRrG02t45MotrTj_a/embed?start=true&loop=true&delayms=300&rm=minimal" webkitallowfullscreen="false" width="100%" height="77"></iframe>
+
 {% include feature_row %}
+
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOprfbgzBPws0v/view" data-text="Support Project VIKRAM" data-color="#528FF0" data-size="large">
+  <h3>Support Project TWISHA and Project VIKRAM</h3>
+  <p>All contributions in support of Project TWISHA will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
+  <script>
+    (function(){
+      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
+      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
+      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
+      rzp && rzp.init && rzp.init()}})();
+  </script>
+</div>
 
 TWISHA, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. 
 

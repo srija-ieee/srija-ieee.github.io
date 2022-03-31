@@ -13,6 +13,9 @@ main:
     url: /projects/
   - title: "Partners"
     url: /partners/
+  - title: "Awards and Recognitions"
+    url: /awards/
+    
     
   - title: Technology
     url: /technology/

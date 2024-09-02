@@ -76,4 +76,4 @@ For India to build a healthcare system that is adaptive, transparent, and effect
 
 
 Disclaimer: AI generated content
-Archived at: https://web.archive.org/web/20240902093717/https://projectvikram.github.io/healthcare/health4all/ac-oped-clinical-guidelines/
+Archived at: [archive.org](https://web.archive.org/web/20240902093717/https://projectvikram.github.io/healthcare/health4all/ac-oped-clinical-guidelines/) 

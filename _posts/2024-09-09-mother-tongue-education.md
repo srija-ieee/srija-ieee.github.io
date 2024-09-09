@@ -119,3 +119,5 @@ This white paper proposes a strategic framework for integrating technical educat
 ---
 
 Disclaimer: Includes AI generated content
+
+Kindly share your inputs and feedback on [LinkedIn](https://lnkd.in/gy5fNGTp) 

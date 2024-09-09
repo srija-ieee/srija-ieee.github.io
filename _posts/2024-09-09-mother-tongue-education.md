@@ -120,4 +120,6 @@ This white paper proposes a strategic framework for integrating technical educat
 
 Disclaimer: Includes AI generated content
 
-Kindly share your inputs and feedback on [LinkedIn](https://lnkd.in/gy5fNGTp) 
+Kindly share your inputs and feedback on [LinkedIn](https://www.linkedin.com/posts/cognitist_education-stem-multilingualism-activity-7238789885568917504-2dN_?utm_source=share&utm_medium=member_android) 
+
+[Archived at](https://lnkd.in/gy5fNGTp) 

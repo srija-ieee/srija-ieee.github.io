@@ -6,13 +6,21 @@ title: Support Us
 <div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HOprfbgzBPws0v/view" data-text="Support Project VIKRAM" data-color="#528FF0" data-size="large">
   <h3>Support Project VIKRAM and Project Hindawi- AI for inclusive growth</h3>
   <p>All contributions in support of Project VIKRAM will be shown as revenue by AyeAI Consulting and all taxes (including GST) will be paid as applicable.</p>
-  <script>
-    (function(){
-      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
-      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
-      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
-      rzp && rzp.init && rzp.init()}})();
-  </script>
+
+<script src="https://www.paypal.com/sdk/js?client-id=BAA8hj13m9HQELWhAI6ef-hRHKMBNUoXmkynHQyutSGb54CjwrMB4-6EfmNuFgEBGC6VYU4b_XkBelftbU&components=hosted-buttons&disable-funding=venmo&currency=USD"></script>
+
+<div id="paypal-container-QNYP5TRDGQECN"></div>
+
+<script>
+
+  paypal.HostedButtons({
+
+    hostedButtonId: "QNYP5TRDGQECN",
+
+  }).render("#paypal-container-QNYP5TRDGQECN")
+
+</script>
+ 
 </div>
 
 

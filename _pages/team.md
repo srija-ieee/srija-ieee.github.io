@@ -13,8 +13,6 @@ feature_row:
 
 ### [Join us](https://projectvikram.github.io/join-us/)
 
-{% include feature_row %}
-
 <img src="https://projectvikram.github.io/restricted_assets/images/ac_photo.jpg" alttext="Abhishek Choudhary (avatar image)" width="300" height="300">
 
 ## Abhishek Choudhary

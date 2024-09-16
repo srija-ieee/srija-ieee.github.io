@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: Team 4 All
+title: Team Project VIKRAM
 feature_row:
   - image_path: https://projectvikram.github.io/restricted_assets/images/ac_photo.jpg
     alt: "Abhishek Choudhary (avatar image)"
@@ -11,7 +11,7 @@ feature_row:
     btn_label: "Profile"
 ---
 
-# Team Project Vikram
+### [Join us](https://projectvikram.github.io/join-us/)
 
 {% include feature_row %}
 
@@ -33,4 +33,5 @@ He is multidisciplinary trained in Pre-clinical Medicine, Neural Engineering, Me
 
 ## &#10070;
 
+[Support our efforts](https://projectvikram.github.io/support/)
 [For alumni see archives of this page](http://web.archive.org/web/20201025013951/https://projectvikram.github.io/team/)
